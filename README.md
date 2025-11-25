@@ -1,11 +1,12 @@
-# uts_pencatatan_keuangan
+# Money Manager
 
-A new Flutter project.
+Aplikasi Pencatatan Keuangan
 
 ## Getting Started
 
-This project is a starting point for a Flutter application.
+Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keuanganmu seperti pemasukan dan pengeluaran
 
+1. Halaman Home screen
 A few resources to get you started if this is your first Flutter project:
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
