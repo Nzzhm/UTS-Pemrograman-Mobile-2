@@ -8,9 +8,11 @@ Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keua
 
 disini saya menggunakan beberapa library flutter yaitu:
 
- - Hive untuk Database lokal
- - FL Chart untuk Grafik statistik
- - Intl untuk Format mata uang
+- Hive untuk Database lokal
+- FL Chart untuk Grafik statistik
+- Intl untuk Format mata uang
+
+## Berikut Screenshoot dari aplikasi Money Manager 
 
 1. Halaman Home screen dan Login
 
