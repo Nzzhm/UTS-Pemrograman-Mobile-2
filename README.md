@@ -6,6 +6,12 @@ Aplikasi Pencatatan Keuangan
 
 Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keuanganmu seperti pemasukan dan pengeluaran
 
+disini saya menggunakan beberapa library flutter yaitu:
+
+ - Hive untuk Database lokal
+ - FL Chart untuk Grafik statistik
+ - Intl untuk Format mata uang
+
 1. Halaman Home screen dan Login
 
 ![Home Screen](Screenshoot/Home_Screen.png) ![Login](Screenshoot/Login.png)
