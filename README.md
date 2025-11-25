@@ -6,7 +6,7 @@ NPM  : 23552011241
 
 
 
-Aplikasi Pencatatan Keuangan
+Money Manager-Aplikasi Pencatatan Keuangan
 
 Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keuanganmu seperti pemasukan dan pengeluaran
 
