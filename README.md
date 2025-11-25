@@ -8,7 +8,7 @@ Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keua
 
 1. Halaman Home screen
 
-![Home Screen](Screenshoot/Statistik.png)
+![Home Screen](Screenshoot/Home_screen.png)
 
 - [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
 - [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
