@@ -6,13 +6,16 @@ Aplikasi Pencatatan Keuangan
 
 Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keuanganmu seperti pemasukan dan pengeluaran
 
-1. Halaman Home screen
+1. Halaman Home screen dan Login
+![Home Screen](Screenshoot/Home_Screen.png) ![Login](Screenshoot/Login.png)
 
-![Home Screen](Screenshoot/Home_Screen.png)
+3. Daftar Transaksi dan Tambah Transaksi
+![Daftar_Transaksi](Screenshoot/Daftar_Transaksi.png) ![Tambah_Transaksi](Screenshoot/Tambah_Transaksi.png)
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+4. Statistik
+![Statistik](Screenshoot/Statistik.png)
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+5. About
+![About](Screenshoot/About.png)
+
+
