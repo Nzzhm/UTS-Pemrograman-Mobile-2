@@ -9,7 +9,9 @@ disini saya menggunakan beberapa library flutter yaitu:
 - Hive untuk Database lokal
 - FL Chart untuk Grafik statistik
 - Intl untuk Format mata uang
-  
+
+Nama : Muhammad Nizham Hibatullah
+NPM  : 23552011241
 
 ## Berikut Screenshoot dari aplikasi Money Manager 
 
