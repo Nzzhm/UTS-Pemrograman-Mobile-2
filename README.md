@@ -2,8 +2,6 @@
 
 Aplikasi Pencatatan Keuangan
 
-## Getting Started
-
 Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keuanganmu seperti pemasukan dan pengeluaran
 
 disini saya menggunakan beberapa library flutter yaitu:
@@ -11,8 +9,10 @@ disini saya menggunakan beberapa library flutter yaitu:
 - Hive untuk Database lokal
 - FL Chart untuk Grafik statistik
 - Intl untuk Format mata uang
+  
 
 ## Berikut Screenshoot dari aplikasi Money Manager 
+
 
 1. Halaman Home screen dan Login
 
