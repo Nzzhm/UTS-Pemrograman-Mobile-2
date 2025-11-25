@@ -1,5 +1,10 @@
 # Money Manager
 
+Nama : Muhammad Nizham Hibatullah
+
+NPM  : 23552011241
+
+
 Aplikasi Pencatatan Keuangan
 
 Ini merupakan sebuah aplikasi yang diperuntukan untuk mencatat semua daftar keuanganmu seperti pemasukan dan pengeluaran
@@ -10,8 +15,7 @@ disini saya menggunakan beberapa library flutter yaitu:
 - FL Chart untuk Grafik statistik
 - Intl untuk Format mata uang
 
-Nama : Muhammad Nizham Hibatullah
-NPM  : 23552011241
+
 
 ## Berikut Screenshoot dari aplikasi Money Manager 
 
